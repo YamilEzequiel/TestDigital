@@ -1,7 +1,8 @@
 <?PHP 
 
 
-    echo "Esto es un test para DigitalOcean  ..";
+    echo "Esto es un test para DigitalOcean  .."; 
+    
 
 
 ?>
